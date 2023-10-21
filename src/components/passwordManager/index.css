@@ -1,0 +1,101 @@
+.bg-container {
+  background-color: #9ba9eb;
+  height: auto;
+  size: cover;
+  padding-left: 10%;
+}
+.app-logo {
+  height: 12%;
+  width: 12%;
+  margin: 40px;
+}
+.first-container {
+  background-color: #5763a5;
+  height: 65%;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #ffffff;
+}
+.container {
+  background-color: #454f84;
+  margin: 10px;
+  padding: 5px;
+  width: 50%;
+  max-height: 90%;
+  border-radius: 10px;
+}
+
+.passwordmanager {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  padding: auto;
+  height: 100%;
+  width: 100%;
+}
+.keylockimg {
+  width: 70%;
+  height: 90%;
+}
+
+.image {
+  width: 25px;
+  height: 25px;
+  background-color: #ffffff;
+  padding: 5px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  height: 25px;
+  margin: 8px;
+}
+.button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+}
+.second-container {
+  background-color: #5763a5;
+  height: 65%;
+  width: 80%;
+}
+.your-password {
+  color: #ffffff;
+  font-weight: 700;
+}
+.password-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px;
+}
+.image1 {
+  width: 30px;
+  height: 25px;
+  background-color: #ffffff;
+  padding: 5px;
+}
+.password-image {
+  height: 40%;
+  width: 70%;
+  margin-left: 20%;
+}
+.no-password {
+  color: #ffffff;
+  margin-left: 50%;
+  font-size: 20px;
+}
+.item-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
